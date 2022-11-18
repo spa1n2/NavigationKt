@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationKt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ffffff">#FFFFFF</string>
+    <string name="cost">$$$</string>
+    <string name="jordan">JORDAN</string>
+    <string name="ok">OK</string>
+    <string name="url">URL</string>
+</resources>
